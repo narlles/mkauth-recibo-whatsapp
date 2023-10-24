@@ -1,50 +1,46 @@
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<meta charset="utf-8" />
-<title>Brlink</title>
+  <meta charset="utf-8">
+  <title>BrLink - Recibo de Pagamento</title>
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    label {
+      margin-bottom: 10px;
+    }
+
+    input {
+      margin-bottom: 20px;
+    }
+  </style>
 </head>
 <body>
-<br>
-<br>
-<br>
-<div align=center>
-<form name="login" method="post" >
-<input type="hidden" name="acao" value="nada" /> 
-<table >
-<tr>
-<td>
-<font color='black'><strong>Digite o numero do titulo ou boleto:</strong></font>
-</td>
-</tr>
-<tr>
-<td>
-<input type="text" name="titulo" size="16" maxlength="16" value=""/>
-</td>
-<td>
-</tr>
-<tr>
-<td>
-<font color='black'><strong>Digite a chave de segurança:</strong></font>
-</td>
-</tr>
-<tr>
-<td>
-<input type="text" name="chave" size="16" maxlength="16" value=""/>
-</td>
-<td>
-</tr>
-<tr>
-<td>
-<button type="submit">Enviar comprovante</button>
-</td>
-</tr>
-</table>
-</form>    
-<center>
-</div>
+  <form name="login" method="post">
+    <input type="hidden" name="acao" value="nada">
+    
+    <label for="titulo">Digite o número do título ou boleto:</label>
+    <input type="text" name="titulo" id="titulo" size="16" maxlength="16" required>
+    
+    <label for="chave">Digite a chave de segurança:</label>
+    <input type="text" name="chave" id="chave" size="16" maxlength="16" required>
+    
+    <button type="submit">Enviar comprovante</button>
+  </form>
 </body>
 </html>
-
 
 <?php
 if(isset($_POST["titulo"])){
