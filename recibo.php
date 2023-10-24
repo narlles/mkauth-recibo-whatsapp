@@ -64,8 +64,8 @@ $boleto="SELECT datavenc, datapag, valor, valorpag, coletor, formapag, login FRO
 $res= mysqli_query($con,$boleto);
 while($vreg=mysqli_fetch_row($res)){
 # PODE PEGAR QUALQUER DADOS QUE QUISEREM, ESTES FOI OS QUE O CIRO QUIS PEGAR
- $datavenc = $vreg[0];
- $datapag = $vreg[1];
+ $datavenc = date('d/m/Y', strtotime($vreg[0])); // Formata a data de vencimento
+ $datapag = date('d/m/Y', strtotime($vreg[1]));  // Formata a data de pagamento
  $valor = $vreg[2];
  $valorpag = $vreg[3];
  $coletor = $vreg[4];
@@ -94,16 +94,16 @@ $data = array(
     ),
     "textMessage" => array( # MENSSAGEM QUE É ENVIADA PARA O CLIENTE NO WHATSAPP.
         "text" => " 
-Mensagem Automatica de Recebimento de Pagamento
-Pagamento recebido em: *$datapag*
-Fatura com vencimento em: $datavenc
-Valor da fatura: R$ $valor
-Valor do pagamento: R$ $valorpag
-Pagamento recebido por: $coletor
-Forma de pagamento: $formapag
+*Mensagem Automatica de Recebimento de Pagamento*
+*Pagamento recebido em*: $datapag
+*Fatura com vencimento em*: $datavenc
+*Valor da fatura*: R$ $valor
+*Valor do pagamento*: R$ $valorpag
+*Pagamento recebido por*: $coletor
+*Forma de pagamento*: $formapag
 
 Para segunda via e comprovantes dos pagamentos acesse:
-https://brlink.org/cliente ( Coloque o CPF do titular )
+https://BrLink.org/cliente (coloque o *CPF* do titular)
 " # LEMBRAR DE COLOCAR A MENSSAGEM DENTRO DAS ASPAS, DETALHE, ACENTOS NÃO FUNCIONA, E QUANDO VOCÊ COPIA UM TEXTO E COLA, ELE TAMBÉM NÃO FUNCIONA, TEM QUE DIGITAR
 		)
 );
