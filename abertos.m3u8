@@ -1,31 +1,133 @@
 #EXTM3U
 
-# -------- ABERTA --------
-#EXTINF:-1 tvg-name="Globo" tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="ABERTA",Globo SP
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10608
-#EXTINF:-1 tvg-name="Globo" tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="ABERTA",Globo Rio
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10607
-#EXTINF:-1 tvg-name="Globo" tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="ABERTA",Globo Brasilia
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10609
-#EXTINF:-1 tvg-name="GLOBONEWS" tvg-id="GLOBONEWS" tvg-logo="https://i.imgur.com/Wu4ykxo.png" group-title="ABERTA",Globo News
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10606
-#EXTINF:-1 tvg-name="RecordTV" tvg-id="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="ABERTA",RecordTV SP SD
-https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
-#EXTINF:-1 tvg-name="Band Sport" tvg-id="Band Sport" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="ABERTA",Band Sport
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10579
-#EXTINF:-1 tvg-name="SBT" tvg-id="SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="ABERTA",SBT Maranhão
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="SBT" tvg-id="SBT" tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="ABERTA",SBT
-https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
-#EXTINF:-1 tvg-name="TV Gazeta" tvg-id="TV Gazeta" tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="ABERTA",TV Gazeta
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10658
-#EXTINF:-1 tvg-name="Cultura" tvg-id="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTA",TV Cultura Brasil
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1 tvg-name="Rede Brasil" tvg-id="Rede Brasil" tvg-logo="https://i.imgur.com/XqAcHMg.png" group-title="ABERTA",Rede Brasil
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-#EXTINF:-1 tvg-name="Record" tvg-id="Record" tvg-logo="" group-title="ABERTA",Record
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10634
-#EXTINF:-1 tvg-name="TV Cultura" tvg-id="TV Cultura" tvg-logo="" group-title="ABERTA",TV Cultura
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10657
-#EXTINF:-1 tvg-name="TV GAZETA" tvg-id="TV GAZETA" tvg-logo="" group-title="ABERTA",TV GAZETA
-http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10663
+#EXTINF:-1 tvg-id="" tvg-name="BR | A&E" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiGJMhrpdS0L4wBXBGmOkobRQI_Psx21w3vA&usqp=CAU" group-title="✅BRASIL",BR | A&E
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357249
+#EXTINF:-1 tvg-id="" tvg-name="BR | AMC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTLPKCymblo_2mWz3EvvEcgfiOM-qQaWHJg&usqp=CAU" group-title="✅BRASIL",BR | AMC
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357250
+#EXTINF:-1 tvg-id="" tvg-name="BR | ANIMAL PLANET" tvg-logo="https://media-exp1.licdn.com/dms/image/C510BAQGrmmBNLkRluw/company-logo_200_200/0/1585408708428?e=2159024400&v=beta&t=yFpwRMwudX8MrTsqPZeWNEHtT7tgwfess0s_-vy5WRw" group-title="✅BRASIL",BR | ANIMAL PLANET
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357252
+#EXTINF:-1 tvg-id="" tvg-name="BR | AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKs1Ust5w2AcsfDKJuwL3tz-wBMClM9fkO0g&usqp=CAU" group-title="✅BRASIL",BR | AXN
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357253
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND BAHIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Bandeirantes_logo_svg.png/revision/latest/scale-to-width-down/175?cb=20200807032759&path-prefix=es" group-title="✅BRASIL",BR | BAND BAHIA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357254
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND BRASILIA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Bandeirantes_logo_svg.png/revision/latest/scale-to-width-down/175?cb=20200807032759&path-prefix=es" group-title="✅BRASIL",BR | BAND BRASILIA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357255
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND MINAS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Bandeirantes_logo_svg.png/revision/latest/scale-to-width-down/175?cb=20200807032759&path-prefix=es" group-title="✅BRASIL",BR | BAND MINAS FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357256
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND NEWS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Bandeirantes_logo_svg.png/revision/latest/scale-to-width-down/175?cb=20200807032759&path-prefix=es" group-title="✅BRASIL",BR | BAND NEWS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357257
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png" group-title="✅BRASIL",BR | BAND NEWS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357258
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND SP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Bandeirantes_logo_svg.png/revision/latest/scale-to-width-down/175?cb=20200807032759&path-prefix=es" group-title="✅BRASIL",BR | BAND SP
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357259
+#EXTINF:-1 tvg-id="" tvg-name="BR | CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="✅BRASIL",BR | CANAL BRASIL HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357260
+#EXTINF:-1 tvg-id="" tvg-name="BR | CANAL BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" group-title="✅BRASIL",BR | CANAL BRASIL HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357261
+#EXTINF:-1 tvg-id="" tvg-name="BR | CINEMAX" tvg-logo="http://swedtv.vip/logos/ENG_USA_Movies/Cinemax.png" group-title="✅BRASIL",BR | CINEMAX
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357262
+#EXTINF:-1 tvg-id="" tvg-name="BR | COMBATE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDI-amZK50OG8ZkHa-wCtXg2Ye3CPLkGg9w&usqp=CAU" group-title="✅BRASIL",BR | COMBATE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357263
+#EXTINF:-1 tvg-id="" tvg-name="BR | COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="✅BRASIL",BR | COMEDY CENTRAL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357264
+#EXTINF:-1 tvg-id="" tvg-name="BR | CULTURA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7GatJMPXd6Rc_OXRQXzMFvOYrcqMe5tglw&usqp=CAU" group-title="✅BRASIL",BR | CULTURA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357265
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CgM6YgWdffgELi7z4EjooXWDR57mh5iaug&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357266
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY HOME & HEALTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6Zkc18mX16h0ILB1QJ3r2kURqtn8RbCEXg&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY HOME & HEALTH
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357267
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY ID - INVESTIGAÇÃO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLD5nsCLjUbHddfGituolZ42vlZyUOfocIMg&s" group-title="✅BRASIL",BR | DISCOVERY ID - INVESTIGAÇÃO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357268
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY SCIENCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGEoipbbvqcBTHBFibh803CNu3JSYYofPpg&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY SCIENCE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357269
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY THEATER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0bnIzKpymyAvsfbfhBOq54ZcQtMRVytUog&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY THEATER
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357270
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY TLC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk6gUZpFkIh0ZrJn5XI3jfyfUC776qI97SQ&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY TLC
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357271
+#EXTINF:-1 tvg-id="" tvg-name="BR | DISCOVERY TURBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU" group-title="✅BRASIL",BR | DISCOVERY TURBO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357272
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ9d1YrpmkzUwbIqLY-fbNVjM76FpRpA791Q&usqp=CAU" group-title="✅BRASIL",BR | GLOBO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357273
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcGQMcaWPGZcyZvRMV0y4EUieAsJnGPyNLg&usqp=CAU" group-title="✅BRASIL",BR | GLOBO NEWS
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357274
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO RJ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwuvcFaawQ-vRqHj5UFGOLcF_h9Ns7OEvqNw&usqp=CAU" group-title="✅BRASIL",BR | GLOBO RJ
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357275
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="✅BRASIL",BR | HBO
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357277
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="✅BRASIL",BR | HBO 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357278
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO MUNDI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPKwmpcqJITl-unFVBYbDN4D5DzmOMqw2Ag&usqp=CAU" group-title="✅BRASIL",BR | HBO MUNDI
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357279
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO POP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oAPR2hBv5DWFtR-6dpujdOp4dv2vCZzEbw&usqp=CAU" group-title="✅BRASIL",BR | HBO POP
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357280
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO SIGNATURE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcy9c_PN7fR7Zc5CA5ClkN6n_7Cf2vBX-2uQ&usqp=CAU" group-title="✅BRASIL",BR | HBO SIGNATURE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357281
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOofNFwndRgqNhL3HNoOGHEUsqyuFzEOx0w&usqp=CAU" group-title="✅BRASIL",BR | HBO+
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357282
+#EXTINF:-1 tvg-id="" tvg-name="BR | HISTORY 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="✅BRASIL",BR | HISTORY 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357283
+#EXTINF:-1 tvg-id="" tvg-name="BR | HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpjNmXn_87LUT20R4Ui66R6YpEURX6gsGhw&usqp=CAU" group-title="✅BRASIL",BR | HISTORY
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357285
+#EXTINF:-1 tvg-id="" tvg-name="BR | PARAMOUNT CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWd1uG0JTS9ZnAQO-NbfBQPWi9twUqLZqdA&usqp=CAU" group-title="✅BRASIL",BR | PARAMOUNT CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357286
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD RECIFE FHD" tvg-logo="https://e7.pngegg.com/pngimages/997/1017/png-clipart-recordtv-logo-sistema-brasileiro-de-televisao-design-computer-logo.png" group-title="✅BRASIL",BR | RECORD RECIFE FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357287
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD SP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSOG35zAjlaa8XVSppPwTCl66-C6grIzrBg&usqp=CAU" group-title="✅BRASIL",BR | RECORD SP
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357288
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV BAHIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RAQlg3Gjn72vownZusczu4Y9Grf3RAg_Sg&s" group-title="✅BRASIL",BR | RECORD TV BAHIA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357289
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV BRASILIA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RAQlg3Gjn72vownZusczu4Y9Grf3RAg_Sg&s" group-title="✅BRASIL",BR | RECORD TV BRASILIA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357290
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV CAMPINAS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RAQlg3Gjn72vownZusczu4Y9Grf3RAg_Sg&s" group-title="✅BRASIL",BR | RECORD TV CAMPINAS HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357291
+#EXTINF:-1 tvg-id="RREC" tvg-name="BR | RECORD TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RAQlg3Gjn72vownZusczu4Y9Grf3RAg_Sg&s" group-title="✅BRASIL",BR | RECORD TV HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357292
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV MINAS HD" tvg-logo="https://e7.pngegg.com/pngimages/997/1017/png-clipart-recordtv-logo-sistema-brasileiro-de-televisao-design-computer-logo.png" group-title="✅BRASIL",BR | RECORD TV MINAS HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357293
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV RJ HD" tvg-logo="https://virtuapartner.com/wp-content/uploads/2021/10/imgbin_brazil-recordtv-logo-rede-globo-television-png.png" group-title="✅BRASIL",BR | RECORD TV RJ HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357294
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV RS HD" tvg-logo="https://img.r7.com/images/record-litoral-e-vale-07112023183936999" group-title="✅BRASIL",BR | RECORD TV RS HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357295
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV SP FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Novo-rederecord.png/revision/latest?cb=20120227024620" group-title="✅BRASIL",BR | RECORD TV SP FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357297
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD TV SP HD" tvg-logo="https://img.r7.com/images/record-tv-litoralinstitucional-18112019101935241?resize=1100x326&crop=660x196%200%20139&dimensions=360x218" group-title="✅BRASIL",BR | RECORD TV SP HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357298
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT BAHIA FHD" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="✅BRASIL",BR | SBT BAHIA FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357300
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT PARANA HD" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="✅BRASIL",BR | SBT PARANA HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357301
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT RJ FHD" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="✅BRASIL",BR | SBT RJ FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357302
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT SP HD" tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7012-1071_import.png" group-title="✅BRASIL",BR | SBT SP HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357303
+#EXTINF:-1 tvg-id="" tvg-name="BR | SONY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQId23juGnAuOq4bEGErQ3zj5Tm6JgEYFKGvg&usqp=CAU" group-title="✅BRASIL",BR | SONY CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357304
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPACE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_htwlVuuX1Ntrq3fJiUBcnzQ2YJYrf1HVzQ&usqp=CAU" group-title="✅BRASIL",BR | SPACE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357305
+#EXTINF:-1 tvg-id="" tvg-name="BR | STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtXUYnn2T_AODcGAm1tbDRT4szaBbHO7HqQ&usqp=CAU" group-title="✅BRASIL",BR | STAR CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357306
+#EXTINF:-1 tvg-id="" tvg-name="BR | STAR LIFE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUGKExyNbHmGaIZXR9hYxEzF0712EEc-nNPg&usqp=CAU" group-title="✅BRASIL",BR | STAR LIFE
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357307
+#EXTINF:-1 tvg-id="" tvg-name="BR | STUDIO UNIVERSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdvjF6gfMCAv8Ja87zAwPQWI27Jg2vzljUA&usqp=CAU" group-title="✅BRASIL",BR | STUDIO UNIVERSAL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357308
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE ACTION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZC3SIjNdwUvzfyt46vNofHJcvEtMV-dVOA&usqp=CAU" group-title="✅BRASIL",BR | TELECINE ACTION
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357309
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE CULT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlqD2YOQKttJbQ9DtDe1iiloL4Lezxl4wPyw&usqp=CAU" group-title="✅BRASIL",BR | TELECINE CULT
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357310
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE FUN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0Y5KRVBhCAuKXktcq4HFTls06BLqjE0BPQ&usqp=CAU" group-title="✅BRASIL",BR | TELECINE FUN
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357311
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE PIPOCA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn69U1m8UiQ1GTJHBxHG3sX681oaj_Yl5ikg&usqp=CAU" group-title="✅BRASIL",BR | TELECINE PIPOCA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357312
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE TOUCH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmf42H9MB-4Q6lyVfrh77qPeG4KFri1nICyg&usqp=CAU" group-title="✅BRASIL",BR | TELECINE TOUCH
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357313
+#EXTINF:-1 tvg-id="" tvg-name="BR | TNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMWKIzL4Rs9p84JwniVQXDKTPyCr7-C6P5HQ&usqp=CAU" group-title="✅BRASIL",BR | TNT
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357314
+#EXTINF:-1 tvg-id="" tvg-name="BR | TNT SÉRIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdfTfMQZPPvq00cu7qc-_QV6uqFyEPGtPlQ&usqp=CAU" group-title="✅BRASIL",BR | TNT SÉRIES
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357315
+#EXTINF:-1 tvg-id="" tvg-name="BR | TV BRASIL FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2kCnQQocvtD-bV32u3AQpcb5BI-pCwoCtA&s" group-title="✅BRASIL",BR | TV BRASIL FHD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357316
+#EXTINF:-1 tvg-id="" tvg-name="BR | TV GAZETA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvzfsFfz23NBv_EgFk4wYoB5Pe4UNzrcn9A&usqp=CAU" group-title="✅BRASIL",BR | TV GAZETA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357319
+#EXTINF:-1 tvg-id="" tvg-name="BR | UNIVERSAL CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPc7agmfTc7NChaktZhWesX40wIMchRq5AZQ&usqp=CAU" group-title="✅BRASIL",BR | UNIVERSAL CHANNEL
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/357322
+#EXTINF:-1 tvg-id="" tvg-name="BR | WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="✅BRASIL",BR | WARNER
